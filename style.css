@@ -1,0 +1,5 @@
+.container-fluid{
+    height: 100vh;
+    background: linear-gradient(to right,lightpink,purple);
+    text-align: center;
+}
