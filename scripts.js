@@ -23,3 +23,7 @@ function showVote() {
         H2votingDisplay.innerHTML = theVote;
     }
 }
+// catches the button to give it the particles animation
+let testAnimationParticle = new Particles(".voteUp");
+
+testAnimationParticle.disintegrate();
